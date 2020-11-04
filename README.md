@@ -21,7 +21,15 @@ The notebooks make use of the delightful [Newspaper Navigator dataset](news-navi
 
 ## Contents 
 ### 01_finding_maps.ipynb
-Is the main notebook which covers the above topics using data drawn from the [Newspaper Navigator dataset](news-navigator.labs.loc.gov/), in particular images from the Newspaper Navigator dataset predicted as 'maps'. The model trained in the notebook is trained on a dataset; [Images from Newspaper Navigator predicted as maps, with human corrected labels](https://zenodo.org/record/4156510)
+
+This notebooks with images drawn from the [Newspaper Navigator dataset](news-navigator.labs.loc.gov/), in particular images from the Newspaper Navigator dataset predicted as 'maps'. It turns out that machine learning isn't perfect! In this notebook we look at some potential approaches to
+- 'cleaning' up this notebook
+- using Ipython widgets as a middle ground between GUIs and code 
+- traning a computer vision model 
+- a couple of potential approches for working with images at scale
+- brief discussion of working with probable labels. 
+
+The model trained in the notebook is trained on a dataset; [Images from Newspaper Navigator predicted as maps, with human corrected labels](https://zenodo.org/record/4156510)
 
 
 ### appendix_finding_maps_inference_demo.ipynb 
