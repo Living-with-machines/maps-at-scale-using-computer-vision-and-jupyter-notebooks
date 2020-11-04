@@ -9,13 +9,13 @@ Originally delivered as part of [Digital Humanities and Digital Archives](https:
 ## tl;dr 
 
 This workshop/notebook aims to cover a few main things:
-- 📒 how notebooks can be particularly useful for working with digitised collections at scale
+- 📒 show how [Jupyter notebooks](https://jupyter.org/) can be particularly useful for working with digitised collections at scale
 - 👀 give a brief sense of what is possible using computer vision with image collections 
 - 🤖 give some ideas for how existing GLAM infrastructure (in this case [IIIF](iiif.io/)) can support new machine learning-based approaches 
 
 The above use maps as an example, but most of the workshop is not specific to maps. 
 
-The notebooks make use of the delightful [Newspaper Navigator dataset](news-navigator.labs.loc.gov/). 
+The notebooks make use of the delightful [Newspaper Navigator dataset](news-navigator.labs.loc.gov/) from the Library of Congress. 
 
 
 ## Contents 
