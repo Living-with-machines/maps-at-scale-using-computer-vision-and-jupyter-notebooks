@@ -9,8 +9,8 @@ Originally delivered as part of [Digital Humanities and Digital Archives](https:
 ## tl;dr 
 
 This workshop/notebook aims to cover a few main things:
-- how notebooks can be particularly useful for working with digitised collections at scale
-- give a brief sense of what is possible using computer vision with image collections 
-- give some ideas for how existing GLAM infastucture (in this case IIIF) can support new machine learning based approaches 
+- 📒 how notebooks can be particularly useful for working with digitised collections at scale
+- 👀 give a brief sense of what is possible using computer vision with image collections 
+- 🤖 give some ideas for how existing GLAM infastucture (in this case IIIF) can support new machine learning based approaches 
 
 The above use maps as an example but most of the workshop is not specific to maps. 
