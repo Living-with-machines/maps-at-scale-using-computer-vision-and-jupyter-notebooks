@@ -18,7 +18,7 @@ The above use maps as an example, but most of the workshop is not specific to ma
 
 ## Contents 
 ### 01_finding_maps.ipynb
-Is the main notebook covering the above topics using data drawn from the [Newspaper Navigator dataset](news-navigator.labs.loc.gov/), in particular images from the Newspaper Navigator dataset predicted as 'maps'. The model trained in the notebook is trained on a dataset; [Images from Newspaper Navigator predicted as maps, with human corrected labels](https://zenodo.org/record/4156510)
+Is the main notebook which covers the above topics using data drawn from the [Newspaper Navigator dataset](news-navigator.labs.loc.gov/), in particular images from the Newspaper Navigator dataset predicted as 'maps'. The model trained in the notebook is trained on a dataset; [Images from Newspaper Navigator predicted as maps, with human corrected labels](https://zenodo.org/record/4156510)
 
 
 ### appendix_finding_maps_inference_demo.ipynb 
