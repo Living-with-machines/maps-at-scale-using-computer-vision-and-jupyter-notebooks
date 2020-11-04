@@ -18,4 +18,4 @@ The above use maps as an example, but most of the workshop is not specific to ma
 
 ## Contents 
 - 01_finding_maps.ipynb is the main notebook covering the above topics
-
+- appendix_finding_maps_inference_demo.ipynb is an appendix which is used to generate an example JSON dataset of predicted labels for 10,000 images from the Newspaper Navigator dataset of images predicted as maps.  
