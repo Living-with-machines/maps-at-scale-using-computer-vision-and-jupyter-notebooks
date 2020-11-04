@@ -25,6 +25,8 @@ The notebooks make use of the delightful [Newspaper Navigator dataset](news-navi
 ## Contents 
 ### 01_finding_maps.ipynb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Living-with-machines/maps-at-scale-using-computer-vision-and-jupyter-notebooks/blob/main/01_finding_maps.ipynb)
+
 This notebooks uses a sample of images drawn from the [Newspaper Navigator dataset](news-navigator.labs.loc.gov/), in particular images from the Newspaper Navigator dataset predicted as 'maps'. It turns out that machine learning isn't perfect! In this notebook we look at some potential approaches to:
 - 'cleaning' up this dataset 
 - using [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) as a middle ground between developing 'full' [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface) and 'code only' sharing of methods
