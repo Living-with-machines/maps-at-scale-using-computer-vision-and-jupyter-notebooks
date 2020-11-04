@@ -22,9 +22,9 @@ The notebooks make use of the delightful [Newspaper Navigator dataset](news-navi
 ## Contents 
 ### 01_finding_maps.ipynb
 
-This notebooks with images drawn from the [Newspaper Navigator dataset](news-navigator.labs.loc.gov/), in particular images from the Newspaper Navigator dataset predicted as 'maps'. It turns out that machine learning isn't perfect! In this notebook we look at some potential approaches to
-- 'cleaning' up this notebook
-- using Ipython widgets as a middle ground between GUIs and code 
+This notebooks uses a sample of images drawn from the [Newspaper Navigator dataset](news-navigator.labs.loc.gov/), in particular images from the Newspaper Navigator dataset predicted as 'maps'. It turns out that machine learning isn't perfect! In this notebook we look at some potential approaches to:
+- 'cleaning' up this dataset 
+- using [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) as a middle ground between developing 'full' [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface) and 'code only' sharing of methods
 - traning a computer vision model 
 - a couple of potential approches for working with images at scale
 - brief discussion of working with probable labels. 
