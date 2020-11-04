@@ -17,5 +17,8 @@ The above use maps as an example, but most of the workshop is not specific to ma
 
 
 ## Contents 
-- 01_finding_maps.ipynb is the main notebook covering the above topics
-- appendix_finding_maps_inference_demo.ipynb is an appendix which is used to generate an example JSON dataset of predicted labels for 10,000 images from the Newspaper Navigator dataset of images predicted as maps.  
+### 01_finding_maps.ipynb
+Is the main notebook covering the above topics using data drawn from the [Newspaper Navigator dataset](news-navigator.labs.loc.gov/), in particular images from the Newspaper Navigator dataset predicted as 'maps'. The model trained in the notebook is trained on a dataset; [Images from Newspaper Navigator predicted as maps, with human corrected labels](https://zenodo.org/record/4156510)
+
+
+### appendix_finding_maps_inference_demo.ipynb is an appendix which is used to generate an example JSON dataset of predicted labels for 10,000 images from the Newspaper Navigator dataset of images predicted as maps.  
