@@ -4,7 +4,7 @@ Author: Daniel van Strien <a itemprop="sameAs" content="https://orcid.rg/0000-00
 
 > Credit: *This project, funded by the UK Research and Innovation (UKRI) Strategic Priority Fund, is a multidisciplinary collaboration delivered by the Arts and Humanities Research Council (AHRC), with The Alan Turing Institute, the British Library and the Universities of Cambridge, East Anglia, Exeter, and Queen Mary University of London.*
 
-Originally delivered as part of [Digital Humanities and Digital Archives](https://web.archive.org/web/20201103155204/https://www.nlib.ee/en/node/8579) workshop at the National Library of Estonia.
+Originally delivered as part of [Digital Humanities and Digital Archives](https://web.archive.org/web/20201103155204/https://www.nlib.ee/en/node/8579) workshop at the National Library of Estonia. This notebook is intended to work as a 'stand alone' resource but doesn't cover all the topics in depth. It is instead intended as an overview of a range of topics. 
 
 ## tl;dr 
 
