@@ -17,4 +17,5 @@ The above use maps as an example, but most of the workshop is not specific to ma
 
 
 ## Contents 
-- 01_finding_maps.ipynb
+- 01_finding_maps.ipynb is the main notebook covering the above topics
+
