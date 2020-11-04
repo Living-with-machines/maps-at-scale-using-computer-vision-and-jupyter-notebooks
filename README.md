@@ -13,4 +13,4 @@ This workshop/notebook aims to cover a few main things:
 - 👀 give a brief sense of what is possible using computer vision with image collections 
 - 🤖 give some ideas for how existing GLAM infastucture (in this case IIIF) can support new machine learning based approaches 
 
-The above use maps as an example but most of the workshop is not specific to maps. 
+The above use maps as an example, but most of the workshop is not specific to maps. 
