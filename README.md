@@ -18,7 +18,7 @@ This workshop/notebook aims to cover a few main things:
 
 The above use maps as an example, but most of the workshop is not specific to maps. 
 
-The notebooks make use of the delightful [Newspaper Navigator dataset](news-navigator.labs.loc.gov/) from the Library of Congress: 
+The notebooks make use of the delightful [Newspaper Navigator dataset](https://news-navigator.labs.loc.gov/) from the Library of Congress: 
 > ["Chronicling America is a product of the National Digital Newspaper Program, a partnership between the Library of Congress and the National Endowment for the Humanities to digitize historic newspapers. Over 16 million pages of historic American newspapers have been digitized for Chronicling America to date, complete with high-resolution images and machine-readable METS/ALTO OCR. Of considerable interest to Chronicling America users is a semantified corpus, complete with extracted visual content and headlines. To accomplish this, we introduce a visual content recognition model trained on bounding box annotations of photographs, illustrations, maps, comics, and editorial cartoons collected as part of the Library of Congress's Beyond Words crowdsourcing initiative..."](https://arxiv.org/abs/2005.01583)
 
 
